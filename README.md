@@ -1,6 +1,6 @@
 # Delfosti - Reto tecnico Backend
 Reto desarrollado en NodeJS con MongoDB. 
-Se requiere desarrollar un Sistema para la empresa XYZ Boutiqye que tiene como actividad principal la venta de productos basicos. Su principal problema es que no realizan un correcto tracking al momento de hacer los pedidos de productos para abastecer su stock.
+Se requiere desarrollar un Sistema para la empresa XYZ Boutique que tiene como actividad principal la venta de productos basicos. Su principal problema es que no realizan un correcto tracking al momento de hacer los pedidos de productos para abastecer su stock.
 ## Documentacion
 
 ### Instalacion de proyecto
