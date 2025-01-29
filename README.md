@@ -5,10 +5,10 @@ Se requiere desarrollar un Sistema para la empresa XYZ Boutique que tiene como a
 
 ### Instalacion de proyecto
 ```bash
-git clone https://github.com/Frany-oss/francesco-bassino
+git clone https://github.com/Frany-oss/tracking-product.git
 ```
 ```bash
-cd francesco-bassino
+cd tracking-product
 ```
 ```bash
 npm install
